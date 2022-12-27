@@ -26,17 +26,17 @@ CREATE TABLE Butaca (id int Identity PRIMARY KEY,número int ,  funcion int, for
 
 -- Ejercicio 3 Escriba instrucciones SQL para la inserción de datos, de modo de tener información sobre:
 
-a. Las 3 sucursales existentes actualmente.
+--a. Las 3 sucursales existentes actualmente.
 
-b. Al menos 3 salas por sucursal.
+--b. Al menos 3 salas por sucursal.
 
-c. Al menos 20 butacas por sala.
+--c. Al menos 20 butacas por sala.
 
-d. Al menos 5 películas (una de ellas es Argentina, 1985, y otra de ellas es de género ciencia
-ficción).
+--d. Al menos 5 películas (una de ellas es Argentina, 1985, y otra de ellas es de género ciencia
+--ficción).
 
-e. Al menos 5 funciones (algunas de ellas deben ocurrir entre el 24 y el 31 de octubre de
-2022).
+--e. Al menos 5 funciones (algunas de ellas deben ocurrir entre el 24 y el 31 de octubre de
+--2022).
 
 
 -- A) Ingreso de Sucursales 
