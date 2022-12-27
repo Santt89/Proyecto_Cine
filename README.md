@@ -23,7 +23,9 @@ La problemática de la `segunda etapa` es la siguiente:
 Suponga que el Cine Paraíso desea abrir una plataforma de streaming. Dicha plataforma funcionará a través de subscripciones (que pueden ser mensuales o anuales), y será accesible mediante un usuario y una contraseña. En la primera versión, los usuarios podrán subscribirse a este servicio optando por alguno de los tres planes existentes:
 
 --Plan gratuito (acceso restringido a 10 películas por mes).
+
 --Plan premium (acceso a algunas películas en cartelera).
+
 --Plan familiar (incluye las pel´ıculas del plan premium, y películas infantiles).
 
 A su vez, se debe tener en cuenta el registro de pagos, y si el plan del usuario está activo o no según los mismos.
