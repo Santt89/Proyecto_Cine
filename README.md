@@ -1,14 +1,14 @@
 ## Proyecto de una base de datos de un cine.
 
-Este proyecto fue realizado en SQL Server y cuenta con la creación de la base de datos y de las tablas, el agregado de datos, consultas y la creación de Procedimientos Almacenados.
+Este proyecto fue realizado en Microsoft SQL Server y cuenta con la creación de la base de datos y de las tablas, el agregado de datos, consultas y la creación de Procedimientos Almacenados.
 
 ## Que archivos encontraremos en el repositorio?
 
 `Diagrama_proyecto` : Diagrama de la base de datos
 
-`Proyecto_CineParaiso (1era parte)` : Codigo SQL de la primera parte del proyecto
+`Proyecto_CineParaiso (1era parte)` : Código SQL de la primera parte del proyecto
 
-`Proyecto_CineParaiso (2dad parte)` : Codigo SQL de la segunda parte del proyecto
+`Proyecto_CineParaiso (2dad parte)` : Código SQL de la segunda parte del proyecto
 
 
 El proyecto cuenta con dos etapas que tienen distintos problemas a resolver pero que estan relacionadas entre si.
